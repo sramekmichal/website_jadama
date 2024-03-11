@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Jadama</title>
-	<atom:link href="https://sramekmichal.github.io/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>https://sramekmichal.github.io/</link>
+	<atom:link href="/website_jadama/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/website_jadama/</link>
 	<description></description>
 	<lastBuildDate>Mon, 11 Mar 2024 11:57:19 +0000</lastBuildDate>
 	<language>cs</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://sramekmichal.github.io/hello-world/</link>
-					<comments>https://sramekmichal.github.io/hello-world/#comments</comments>
+		<link>/website_jadama/hello-world/</link>
+					<comments>/website_jadama/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[sramekmichal]]></dc:creator>
 		<pubDate>Mon, 11 Mar 2024 11:57:19 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://sramekmichal.github.io/?p=1</guid>
+		<guid isPermaLink="false">/website_jadama/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://sramekmichal.github.io/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/website_jadama/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
