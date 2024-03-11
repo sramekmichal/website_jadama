@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Komentáře: Sample Page	</title>
-	<atom:link href="/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://sramekmichal.github.io/website_jadama/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sramekmichal.github.io/website_jadama/</link>
 	<description></description>
 	<lastBuildDate>Mon, 11 Mar 2024 11:57:19 +0000</lastBuildDate>
 	<sy:updatePeriod>
